@@ -9,11 +9,8 @@
     <li>💬 Ask me about programming, personal development and street workout</li>
     <li>📫 How to reach me gustavougartetorres@gmail.com</li>
 </ul>
-
-
-
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38DE98&repeat=false&width=700&lines=Socials:">
+  
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38DE98&repeat=false&width=700&lines=Social:">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GustavoUT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavo.ugarte.sw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-ugarte-torres/) 
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38DE98&repeat=false&width=700&lines=Skills:">
