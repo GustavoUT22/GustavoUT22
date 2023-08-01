@@ -6,15 +6,10 @@
 <h3 align="center">🚀A passionate full-stack developer based on Lima, Perú</h3>
 
 - 🔭 I currently working on **personal challenges**
-- 
 - 👀 I'm interested in collaborating with innovative and high-impact projects
-- 
 - 🌱 I’m currently learning **Nodejs**
-
 - 📈 I’m looking for **job opportunities as a Full Stack developer**
-
-- 💬 Ask me about **programming,personal development and street workout**
-
+- 💬 Ask me about **programming, personal development and street workout**
 - 📫 How to reach me **gustavougartetorres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
